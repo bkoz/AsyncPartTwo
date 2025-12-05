@@ -1,0 +1,40 @@
+# Node dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+*.log
+
+# Build output
+dist/
+build/
+coverage/
+
+# Next.js/.parcel/.cache etc
+.next/
+.parcel-cache/
+.cache/
+
+# Environment variables
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Misc
+*.local
+*.tgz
+npm-debug.log
+
+# Optional: lock files (uncomment if you want to ignore lockfiles)
+# package-lock.json
+# yarn.lock
